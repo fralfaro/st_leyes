@@ -1,0 +1,284 @@
+{
+    "🔒 Título Preliminar: Disposiciones generales": [
+        {
+            "pregunta": "¿Qué principio debe respetar el tratamiento de datos personales?",
+            "opciones": [
+                "Derechos fundamentales",
+                "Intereses económicos",
+                "Seguridad del estado"
+            ],
+            "respuesta_correcta": "Derechos fundamentales"
+        },
+        {
+            "pregunta": "¿Qué ley regula la libertad de emitir opinión e informar?",
+            "opciones": [
+                "Artículo 19 N° 12 de la Constitución",
+                "Ley de Protección de Datos",
+                "Ley de Propiedad Intelectual"
+            ],
+            "respuesta_correcta": "Artículo 19 N° 12 de la Constitución"
+        },
+        {
+            "pregunta": "¿Qué significa almacenamiento de datos?",
+            "opciones": [
+                "Custodia de datos",
+                "Modificación de datos",
+                "Eliminación de datos"
+            ],
+            "respuesta_correcta": "Custodia de datos"
+        },
+        {
+            "pregunta": "¿Qué es un dato caduco?",
+            "opciones": [
+                "Un dato sin valor legal",
+                "Un dato desactualizado",
+                "Un dato erróneo"
+            ],
+            "respuesta_correcta": "Un dato desactualizado"
+        },
+        {
+            "pregunta": "¿Qué son los datos sensibles?",
+            "opciones": [
+                "Datos relacionados con opiniones políticas",
+                "Datos económicos",
+                "Datos sin valor"
+            ],
+            "respuesta_correcta": "Datos relacionados con opiniones políticas"
+        }
+    ],
+    "📊 Título I: De la utilización de datos personales": [
+        {
+            "pregunta": "¿Qué se requiere para tratar datos personales?",
+            "opciones": [
+                "Autorización expresa del titular",
+                "Decisión unilateral",
+                "Fuente accesible al público"
+            ],
+            "respuesta_correcta": "Autorización expresa del titular"
+        },
+        {
+            "pregunta": "¿Cuándo se puede revocar la autorización de tratamiento de datos?",
+            "opciones": [
+                "En cualquier momento",
+                "Solo al final del contrato",
+                "Nunca"
+            ],
+            "respuesta_correcta": "En cualquier momento"
+        },
+        {
+            "pregunta": "¿Qué se debe informar al titular al recolectar datos?",
+            "opciones": [
+                "Propósito del almacenamiento",
+                "Monto a pagar",
+                "El nombre de quien recolecta"
+            ],
+            "respuesta_correcta": "Propósito del almacenamiento"
+        },
+        {
+            "pregunta": "¿Qué se hace con datos inexactos o erróneos?",
+            "opciones": [
+                "Se modifican",
+                "Se eliminan",
+                "Se guardan"
+            ],
+            "respuesta_correcta": "Se modifican"
+        },
+        {
+            "pregunta": "¿Qué sucede si los datos caducan?",
+            "opciones": [
+                "Se eliminan",
+                "Se bloquean",
+                "Se utilizan"
+            ],
+            "respuesta_correcta": "Se eliminan"
+        }
+    ],
+    "👤 Título II: De los derechos de los titulares de datos": [
+        {
+            "pregunta": "¿Qué derecho tiene un titular de datos personales?",
+            "opciones": [
+                "Acceder, modificar o eliminar sus datos",
+                "Vender sus datos",
+                "Bloquear el acceso"
+            ],
+            "respuesta_correcta": "Acceder, modificar o eliminar sus datos"
+        },
+        {
+            "pregunta": "¿Qué sucede si los datos del titular son erróneos?",
+            "opciones": [
+                "El titular puede exigir su modificación",
+                "Se eliminan automáticamente",
+                "No pasa nada"
+            ],
+            "respuesta_correcta": "El titular puede exigir su modificación"
+        },
+        {
+            "pregunta": "¿Qué derecho tiene el titular sobre sus datos comerciales?",
+            "opciones": [
+                "Eliminar los datos",
+                "Bloquear los datos",
+                "Transferir a terceros"
+            ],
+            "respuesta_correcta": "Bloquear los datos"
+        },
+        {
+            "pregunta": "¿En qué casos no se puede eliminar un dato?",
+            "opciones": [
+                "Cuando lo exija la ley",
+                "Cuando lo desee el titular",
+                "Cuando el dato esté en proceso"
+            ],
+            "respuesta_correcta": "Cuando lo exija la ley"
+        },
+        {
+            "pregunta": "¿Qué derecho tiene el titular frente a encuestas?",
+            "opciones": [
+                "Oponerse a su uso",
+                "Obligar a no usar los datos",
+                "Bloquear la encuesta"
+            ],
+            "respuesta_correcta": "Oponerse a su uso"
+        }
+    ],
+    "💼 Título III: De la utilización de datos personales relativos a obligaciones de carácter económico, financiero, bancario o comercial": [
+        {
+            "pregunta": "¿Qué tipo de datos pueden comunicarse sobre obligaciones económicas?",
+            "opciones": [
+                "Letras de cambio protestadas",
+                "Datos personales",
+                "Opiniones políticas"
+            ],
+            "respuesta_correcta": "Letras de cambio protestadas"
+        },
+        {
+            "pregunta": "¿Qué no puede comunicarse sin autorización?",
+            "opciones": [
+                "Datos sensibles",
+                "Obligaciones financieras",
+                "Ingresos anuales"
+            ],
+            "respuesta_correcta": "Datos sensibles"
+        },
+        {
+            "pregunta": "¿Qué información no puede ser publicada?",
+            "opciones": [
+                "Protestos de letras",
+                "Nombre del titular",
+                "Datos estadísticos"
+            ],
+            "respuesta_correcta": "Nombre del titular"
+        },
+        {
+            "pregunta": "¿Qué ocurre si se paga una deuda financiera?",
+            "opciones": [
+                "Los datos se eliminan",
+                "Se mantienen en el sistema",
+                "No pasa nada"
+            ],
+            "respuesta_correcta": "Los datos se eliminan"
+        },
+        {
+            "pregunta": "¿Qué es un dato financiero válido?",
+            "opciones": [
+                "Obligación registrada en un documento legal",
+                "Cualquier dato",
+                "Un dato creado por un tercero"
+            ],
+            "respuesta_correcta": "Obligación registrada en un documento legal"
+        }
+    ],
+    "🏛️ Título IV: Del tratamiento de datos por los organismos públicos": [
+        {
+            "pregunta": "¿Cómo deben los organismos públicos tratar los datos personales?",
+            "opciones": [
+                "Dentro de su competencia",
+                "Sin restricciones",
+                "Con autorización judicial"
+            ],
+            "respuesta_correcta": "Dentro de su competencia"
+        },
+        {
+            "pregunta": "¿Qué no pueden comunicar los organismos públicos?",
+            "opciones": [
+                "Datos sensibles",
+                "Resultados de encuestas",
+                "Datos financieros"
+            ],
+            "respuesta_correcta": "Datos sensibles"
+        },
+        {
+            "pregunta": "¿Qué deben hacer los organismos públicos al modificar datos?",
+            "opciones": [
+                "Cuidar la integridad de los datos",
+                "Eliminar todos los datos",
+                "Compartir los datos con otras instituciones"
+            ],
+            "respuesta_correcta": "Cuidar la integridad de los datos"
+        },
+        {
+            "pregunta": "¿Qué norma rige los registros públicos?",
+            "opciones": [
+                "La Constitución",
+                "Ley de Protección de Datos",
+                "Código Civil"
+            ],
+            "respuesta_correcta": "Ley de Protección de Datos"
+        },
+        {
+            "pregunta": "¿Qué tipo de datos pueden mantener los organismos públicos?",
+            "opciones": [
+                "Solo datos dentro de su competencia",
+                "Todos los datos",
+                "Datos internacionales"
+            ],
+            "respuesta_correcta": "Solo datos dentro de su competencia"
+        }
+    ],
+    "⚖️ Título V: De la responsabilidad por las infracciones a esta ley": [
+        {
+            "pregunta": "¿Qué ocurre en caso de infracción de la ley de datos?",
+            "opciones": [
+                "Se indemnizan los daños",
+                "Se eliminan los datos",
+                "No hay consecuencias"
+            ],
+            "respuesta_correcta": "Se indemnizan los daños"
+        },
+        {
+            "pregunta": "¿Quiénes son responsables en caso de infracción?",
+            "opciones": [
+                "Personas naturales, jurídicas y organismos públicos",
+                "Solo las empresas",
+                "Solo los organismos públicos"
+            ],
+            "respuesta_correcta": "Personas naturales, jurídicas y organismos públicos"
+        },
+        {
+            "pregunta": "¿Qué se indemniza en caso de infracción?",
+            "opciones": [
+                "Daño patrimonial y moral",
+                "Solo el daño moral",
+                "Solo el daño patrimonial"
+            ],
+            "respuesta_correcta": "Daño patrimonial y moral"
+        },
+        {
+            "pregunta": "¿Qué autoridad puede imponer sanciones?",
+            "opciones": [
+                "Tribunal Civil",
+                "Policía",
+                "Ministerio Público"
+            ],
+            "respuesta_correcta": "Tribunal Civil"
+        },
+        {
+            "pregunta": "¿Qué pasa si un organismo no cumple con la eliminación de datos?",
+            "opciones": [
+                "Es sancionado",
+                "Los datos se bloquean",
+                "Se eliminan automáticamente"
+            ],
+            "respuesta_correcta": "Es sancionado"
+        }
+    ]
+}

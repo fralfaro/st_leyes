@@ -1,0 +1,14 @@
+{
+    "nombre": "Francisco",
+    "edad": 30,
+    "ciudad": "Santiago",
+    "hobbies": [
+        "baloncesto",
+        "calistenia",
+        "cocinar"
+    ],
+    "educacion": {
+        "pregrado": "Ingeniería",
+        "postgrado": "Data Science"
+    }
+}

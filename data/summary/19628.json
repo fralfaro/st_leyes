@@ -1,0 +1,61 @@
+{
+    "🔒 Título Preliminar: Disposiciones generales": {
+        "articulos": [
+            "Artículo 1",
+            "Artículo 2",
+            "Artículo 3"
+        ],
+        "descripcion": "Define los principios básicos y las disposiciones generales sobre el tratamiento de los datos personales. Se introducen conceptos clave como 'datos personales', 'datos sensibles', 'almacenamiento' y 'eliminación'."
+    },
+    "📊 Título I: De la utilización de datos personales": {
+        "articulos": [
+            "Artículo 4",
+            "Artículo 5",
+            "Artículo 6",
+            "Artículo 7",
+            "Artículo 8",
+            "Artículo 9",
+            "Artículo 10",
+            "Artículo 11"
+        ],
+        "descripcion": "Regula la recolección, uso, modificación, eliminación y transmisión de datos personales, estableciendo la necesidad de autorización del titular y garantizando el respeto de sus derechos fundamentales."
+    },
+    "👤 Título II: De los derechos de los titulares de datos": {
+        "articulos": [
+            "Artículo 12",
+            "Artículo 13",
+            "Artículo 14",
+            "Artículo 15",
+            "Artículo 16"
+        ],
+        "descripcion": "Establece los derechos de las personas cuyos datos son recolectados, incluyendo el derecho a acceder, modificar y eliminar datos personales. Regula las limitaciones en el tratamiento de estos datos."
+    },
+    "💼 Título III: De la utilización de datos personales relativos a obligaciones de carácter económico, financiero, bancario o comercial": {
+        "articulos": [
+            "Artículo 17",
+            "Artículo 18",
+            "Artículo 19"
+        ],
+        "descripcion": "Regula la comunicación de datos personales en el contexto de obligaciones económicas, financieras, bancarias y comerciales, estableciendo condiciones específicas para su tratamiento y uso."
+    },
+    "🏛️ Título IV: Del tratamiento de datos por los organismos públicos": {
+        "articulos": [
+            "Artículo 20",
+            "Artículo 21",
+            "Artículo 22"
+        ],
+        "descripcion": "Define cómo los organismos públicos deben tratar los datos personales, limitando su uso a las materias de su competencia y bajo reglas estrictas de confidencialidad."
+    },
+    "⚖️ Título V: De la responsabilidad por las infracciones a esta ley": {
+        "articulos": [
+            "Artículo 23"
+        ],
+        "descripcion": "Establece las sanciones y responsabilidades para las personas naturales, jurídicas y organismos públicos que infrinjan las disposiciones de la ley en relación con el tratamiento de datos personales."
+    },
+    "📜 Título Final": {
+        "articulos": [
+            "Artículo 24"
+        ],
+        "descripcion": "Introduce disposiciones complementarias y modificaciones a otras leyes relacionadas con el tratamiento y protección de datos personales."
+    }
+}

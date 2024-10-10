@@ -1,0 +1,472 @@
+{
+    "😊 Título I: Disposiciones generales": [
+        {
+            "pregunta": "¿Cuál es el objetivo de la ley?",
+            "opciones": [
+                "Establecer la institucionalidad de ciberseguridad",
+                "Regular la protección de datos personales",
+                "Crear un sistema de vigilancia estatal"
+            ],
+            "respuesta_correcta": "Establecer la institucionalidad de ciberseguridad"
+        },
+        {
+            "pregunta": "¿Qué es un ciberataque?",
+            "opciones": [
+                "Acceso no autorizado a información",
+                "Un virus informático",
+                "Un problema de software"
+            ],
+            "respuesta_correcta": "Acceso no autorizado a información"
+        },
+        {
+            "pregunta": "¿Qué significa ciberseguridad?",
+            "opciones": [
+                "Protección de datos financieros",
+                "Preservación de la información y redes informáticas",
+                "Control de acceso a sistemas"
+            ],
+            "respuesta_correcta": "Preservación de la información y redes informáticas"
+        },
+        {
+            "pregunta": "¿Qué se entiende por vulnerabilidad?",
+            "opciones": [
+                "Una debilidad que puede ser explotada",
+                "Un error en el código",
+                "Una herramienta de seguridad"
+            ],
+            "respuesta_correcta": "Una debilidad que puede ser explotada"
+        },
+        {
+            "pregunta": "¿Qué se debe hacer frente a un incidente de ciberseguridad?",
+            "opciones": [
+                "Ignorarlo",
+                "Actuar coordinadamente y diligentemente",
+                "Reportarlo solo si es grave"
+            ],
+            "respuesta_correcta": "Actuar coordinadamente y diligentemente"
+        }
+    ],
+    "🔒 Título II: Obligaciones de ciberseguridad": [
+        {
+            "pregunta": "¿A quién se aplica la ley?",
+            "opciones": [
+                "A todas las empresas",
+                "A instituciones que presten servicios esenciales",
+                "Solo al Estado"
+            ],
+            "respuesta_correcta": "A instituciones que presten servicios esenciales"
+        },
+        {
+            "pregunta": "¿Qué deben hacer los operadores de importancia vital?",
+            "opciones": [
+                "Implementar un sistema de gestión de seguridad",
+                "No necesitan hacer nada especial",
+                "Solo reportar incidentes"
+            ],
+            "respuesta_correcta": "Implementar un sistema de gestión de seguridad"
+        },
+        {
+            "pregunta": "¿Qué información deben reportar las instituciones sobre incidentes?",
+            "opciones": [
+                "Nada",
+                "Solo datos financieros",
+                "Detalles del incidente y medidas tomadas"
+            ],
+            "respuesta_correcta": "Detalles del incidente y medidas tomadas"
+        },
+        {
+            "pregunta": "¿Qué son los servicios esenciales?",
+            "opciones": [
+                "Servicios no prioritarios",
+                "Servicios que afectan la vida y seguridad de las personas",
+                "Cualquier tipo de servicio"
+            ],
+            "respuesta_correcta": "Servicios que afectan la vida y seguridad de las personas"
+        },
+        {
+            "pregunta": "¿Qué debe contener un plan de continuidad operacional?",
+            "opciones": [
+                "Estrategias de recuperación",
+                "Solo datos financieros",
+                "No es necesario un plan"
+            ],
+            "respuesta_correcta": "Estrategias de recuperación"
+        }
+    ],
+    "🛡️ Título III: De la Agencia Nacional de Ciberseguridad": [
+        {
+            "pregunta": "¿Cuál es la función principal de la Agencia?",
+            "opciones": [
+                "Asesorar al Presidente en ciberseguridad",
+                "Regular todos los aspectos de la economía",
+                "Controlar la información personal"
+            ],
+            "respuesta_correcta": "Asesorar al Presidente en ciberseguridad"
+        },
+        {
+            "pregunta": "¿Qué debe hacer la Agencia al recibir un incidente?",
+            "opciones": [
+                "Ignorarlo",
+                "Coordinar la respuesta",
+                "Enviar una carta"
+            ],
+            "respuesta_correcta": "Coordinar la respuesta"
+        },
+        {
+            "pregunta": "¿Cómo se relaciona la Agencia con otras instituciones?",
+            "opciones": [
+                "No se relaciona",
+                "Coordina esfuerzos y comparte información",
+                "Compite con ellas"
+            ],
+            "respuesta_correcta": "Coordina esfuerzos y comparte información"
+        },
+        {
+            "pregunta": "¿Qué se debe hacer en caso de un ciberataque significativo?",
+            "opciones": [
+                "Actuar solo",
+                "Coordinar con el CSIRT Nacional",
+                "No hacer nada"
+            ],
+            "respuesta_correcta": "Coordinar con el CSIRT Nacional"
+        },
+        {
+            "pregunta": "¿Qué tipo de información maneja la Agencia?",
+            "opciones": [
+                "Información pública únicamente",
+                "Información secreta y reservada",
+                "Solo datos financieros"
+            ],
+            "respuesta_correcta": "Información secreta y reservada"
+        }
+    ],
+    "⚖️ Título IV: Coordinación regulatoria y otras disposiciones": [
+        {
+            "pregunta": "¿Qué debe hacer la Agencia antes de dictar nuevas normativas?",
+            "opciones": [
+                "Consultar con otras entidades",
+                "Actuar unilateralmente",
+                "No necesita hacer nada"
+            ],
+            "respuesta_correcta": "Consultar con otras entidades"
+        },
+        {
+            "pregunta": "¿Qué ocurre si hay conflictos normativos?",
+            "opciones": [
+                "Se ignoran",
+                "Se busca coordinación y colaboración",
+                "La Agencia decide"
+            ],
+            "respuesta_correcta": "Se busca coordinación y colaboración"
+        },
+        {
+            "pregunta": "¿Qué deben cumplir las instituciones según la normativa sectorial?",
+            "opciones": [
+                "Normativas de la Agencia",
+                "Normas internacionales",
+                "Cualquier normativa que quieran"
+            ],
+            "respuesta_correcta": "Normativas de la Agencia"
+        },
+        {
+            "pregunta": "¿Quién puede emitir normativas generales en su sector?",
+            "opciones": [
+                "La Agencia",
+                "Cualquier institución",
+                "Solo el Estado"
+            ],
+            "respuesta_correcta": "La Agencia"
+        },
+        {
+            "pregunta": "¿Qué se considera un incidente de efecto significativo?",
+            "opciones": [
+                "Cualquier incidente",
+                "Uno que interrumpa servicios esenciales",
+                "Solo ataques cibernéticos graves"
+            ],
+            "respuesta_correcta": "Uno que interrumpa servicios esenciales"
+        }
+    ],
+    "🚨 Título V: Del Equipo de Respuesta a Incidentes de Seguridad Informática de la Defensa Nacional": [
+        {
+            "pregunta": "¿Cuál es la función del CSIRT de la Defensa Nacional?",
+            "opciones": [
+                "Coordinar la respuesta a incidentes en el ámbito de defensa",
+                "Regular el comercio internacional",
+                "No tiene funciones específicas"
+            ],
+            "respuesta_correcta": "Coordinar la respuesta a incidentes en el ámbito de defensa"
+        },
+        {
+            "pregunta": "¿Quién supervisa al CSIRT de la Defensa Nacional?",
+            "opciones": [
+                "El Ministro de Defensa",
+                "La Agencia Nacional de Ciberseguridad",
+                "Nadie"
+            ],
+            "respuesta_correcta": "El Ministro de Defensa"
+        },
+        {
+            "pregunta": "¿Qué se requiere para la implementación de políticas de ciberseguridad en el sector defensa?",
+            "opciones": [
+                "Un manual",
+                "La aprobación del CSIRT Nacional",
+                "No se requiere nada"
+            ],
+            "respuesta_correcta": "La aprobación del CSIRT Nacional"
+        },
+        {
+            "pregunta": "¿Qué deben hacer las instituciones de defensa al detectar un ciberataque?",
+            "opciones": [
+                "Reportar al CSIRT de la Defensa Nacional",
+                "Ignorarlo",
+                "No se requiere acción"
+            ],
+            "respuesta_correcta": "Reportar al CSIRT de la Defensa Nacional"
+        },
+        {
+            "pregunta": "¿Cómo se coordina la respuesta a ciberataques en el sector defensa?",
+            "opciones": [
+                "Sin coordinación",
+                "A través del CSIRT de la Defensa Nacional",
+                "Por iniciativa propia"
+            ],
+            "respuesta_correcta": "A través del CSIRT de la Defensa Nacional"
+        }
+    ],
+    "🔍 Título VI: De la reserva de información en el sector público en materia de ciberseguridad": [
+        {
+            "pregunta": "¿Qué información se considera secreta en ciberseguridad?",
+            "opciones": [
+                "Datos públicos",
+                "Datos de incidentes y vulnerabilidades",
+                "Todo tipo de información"
+            ],
+            "respuesta_correcta": "Datos de incidentes y vulnerabilidades"
+        },
+        {
+            "pregunta": "¿Quién debe mantener la reserva de la información?",
+            "opciones": [
+                "La Agencia y el CSIRT",
+                "Cualquier persona",
+                "Solo el Presidente"
+            ],
+            "respuesta_correcta": "La Agencia y el CSIRT"
+        },
+        {
+            "pregunta": "¿Qué debe hacer la Agencia con información confidencial?",
+            "opciones": [
+                "Publicarla",
+                "Mantenerla en secreto",
+                "Compartirla libremente"
+            ],
+            "respuesta_correcta": "Mantenerla en secreto"
+        },
+        {
+            "pregunta": "¿Qué tipo de información debe ser reservada?",
+            "opciones": [
+                "Datos financieros",
+                "Matrices de riesgos",
+                "Datos públicos"
+            ],
+            "respuesta_correcta": "Matrices de riesgos"
+        },
+        {
+            "pregunta": "¿Cuál es la obligación de reserva para el personal de la Agencia?",
+            "opciones": [
+                "Informar todo",
+                "Mantener el secreto incluso después de dejar el cargo",
+                "No hay obligación"
+            ],
+            "respuesta_correcta": "Mantener el secreto incluso después de dejar el cargo"
+        }
+    ],
+    "⚠️ Título VII: De las infracciones y sanciones": [
+        {
+            "pregunta": "¿Quién puede imponer sanciones por infracciones?",
+            "opciones": [
+                "La Agencia",
+                "El Presidente",
+                "Nadie"
+            ],
+            "respuesta_correcta": "La Agencia"
+        },
+        {
+            "pregunta": "¿Qué tipo de infracciones se consideran leves?",
+            "opciones": [
+                "No reportar un incidente",
+                "Entregar información fuera de plazo",
+                "Cualquier infracción grave"
+            ],
+            "respuesta_correcta": "Entregar información fuera de plazo"
+        },
+        {
+            "pregunta": "¿Qué ocurre en caso de infracción grave?",
+            "opciones": [
+                "Se archiva el caso",
+                "Se impone una multa",
+                "No hay consecuencias"
+            ],
+            "respuesta_correcta": "Se impone una multa"
+        },
+        {
+            "pregunta": "¿Qué se considera una infracción gravísima?",
+            "opciones": [
+                "No reportar un incidente significativo",
+                "Entregar datos falsos",
+                "No tomar medidas de seguridad"
+            ],
+            "respuesta_correcta": "No reportar un incidente significativo"
+        },
+        {
+            "pregunta": "¿Cómo se determina la gravedad de una infracción?",
+            "opciones": [
+                "Por la cantidad de datos involucrados",
+                "Por el impacto y las consecuencias",
+                "Por la intención del infractor"
+            ],
+            "respuesta_correcta": "Por el impacto y las consecuencias"
+        }
+    ],
+    "🏛️ Título VIII: Del Comité Interministerial sobre Ciberseguridad": [
+        {
+            "pregunta": "¿Cuál es el objetivo del Comité Interministerial?",
+            "opciones": [
+                "Asesorar al Presidente en ciberseguridad",
+                "Controlar a la Agencia",
+                "Regular todos los organismos"
+            ],
+            "respuesta_correcta": "Asesorar al Presidente en ciberseguridad"
+        },
+        {
+            "pregunta": "¿Quién preside el Comité?",
+            "opciones": [
+                "El Ministro de Defensa",
+                "El Director de la Agencia",
+                "El Presidente"
+            ],
+            "respuesta_correcta": "El Director de la Agencia"
+        },
+        {
+            "pregunta": "¿Qué deben hacer los miembros del Comité?",
+            "opciones": [
+                "Reunirse una vez al mes",
+                "Colaborar en la ciberseguridad del país",
+                "No tienen obligaciones"
+            ],
+            "respuesta_correcta": "Colaborar en la ciberseguridad del país"
+        },
+        {
+            "pregunta": "¿Quiénes pueden ser invitados al Comité?",
+            "opciones": [
+                "Cualquier persona",
+                "Funcionarios de la Administración y expertos",
+                "Solo ministros"
+            ],
+            "respuesta_correcta": "Funcionarios de la Administración y expertos"
+        },
+        {
+            "pregunta": "¿Qué se requiere para la formación del Comité?",
+            "opciones": [
+                "Una ley",
+                "Un reglamento",
+                "Una decisión del Presidente"
+            ],
+            "respuesta_correcta": "Una decisión del Presidente"
+        }
+    ],
+    "📜 Título IX: Órganos autónomos constitucionales": [
+        {
+            "pregunta": "¿Qué órganos deben adoptar medidas de ciberseguridad?",
+            "opciones": [
+                "Solo el Gobierno",
+                "Órganos autónomos constitucionales",
+                "Ninguno"
+            ],
+            "respuesta_correcta": "Órganos autónomos constitucionales"
+        },
+        {
+            "pregunta": "¿A quiénes se aplican las normas de ciberseguridad?",
+            "opciones": [
+                "A todos los ciudadanos",
+                "Solo a las empresas",
+                "A los organismos públicos"
+            ],
+            "respuesta_correcta": "A los organismos públicos"
+        },
+        {
+            "pregunta": "¿Qué deben coordinar los órganos autónomos?",
+            "opciones": [
+                "La información",
+                "Los incidentes de ciberseguridad",
+                "Nada"
+            ],
+            "respuesta_correcta": "Los incidentes de ciberseguridad"
+        },
+        {
+            "pregunta": "¿Pueden los órganos autónomos ser regulados por la Agencia?",
+            "opciones": [
+                "Sí",
+                "No",
+                "Solo parcialmente"
+            ],
+            "respuesta_correcta": "No"
+        },
+        {
+            "pregunta": "¿Qué tipo de medidas deben adoptar estos órganos?",
+            "opciones": [
+                "Cualquier medida",
+                "Medidas adecuadas a sus funciones",
+                "Solo medidas preventivas"
+            ],
+            "respuesta_correcta": "Medidas adecuadas a sus funciones"
+        }
+    ],
+    "🔄 Título X: De las modificaciones a diversos cuerpos legales": [
+        {
+            "pregunta": "¿Qué se modifica en la ley de delitos informáticos?",
+            "opciones": [
+                "Se eliminan todos los delitos",
+                "Se actualizan las sanciones",
+                "Se incorporan nuevas normas"
+            ],
+            "respuesta_correcta": "Se incorporan nuevas normas"
+        },
+        {
+            "pregunta": "¿Quién puede acceder a información sobre vulnerabilidades?",
+            "opciones": [
+                "Cualquiera",
+                "Solo la Agencia",
+                "El público en general"
+            ],
+            "respuesta_correcta": "Solo la Agencia"
+        },
+        {
+            "pregunta": "¿Qué se requiere para el acceso a un sistema informático?",
+            "opciones": [
+                "Consentimiento previo",
+                "No se requiere nada",
+                "Solo notificar"
+            ],
+            "respuesta_correcta": "Consentimiento previo"
+        },
+        {
+            "pregunta": "¿Qué condiciones deben cumplirse para no ser sancionado por acceder a un sistema?",
+            "opciones": [
+                "Informar a la Agencia",
+                "Ser un experto en ciberseguridad",
+                "Tener permiso del propietario"
+            ],
+            "respuesta_correcta": "Informar a la Agencia"
+        },
+        {
+            "pregunta": "¿Qué se establece en relación a las sanciones por delitos informáticos?",
+            "opciones": [
+                "Se aumentan las penas",
+                "Se eliminan las penas",
+                "Se mantienen las mismas"
+            ],
+            "respuesta_correcta": "Se aumentan las penas"
+        }
+    ]
+}
