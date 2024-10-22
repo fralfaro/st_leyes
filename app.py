@@ -105,7 +105,9 @@ def cs_sidebar():
 
                 Más información:  
                 - [Ley 21.663 - Ley Marco de Ciberseguridad](https://www.bcn.cl/leychile/navegar?idNorma=1202434)
-                - [Ley 19.628 - Ley Protección de Datos Personales](https://www.bcn.cl/leychile/navegar?idNorma=141599)
+                - [Ley 19.628 - Ley Sobre Protección de la Vida Privada](https://www.bcn.cl/leychile/navegar?idNorma=141599)
+
+                > **Nota**: Se Agrega la Ley de Protección de Datos Personales (Transitoria).
                 """
             )
 
