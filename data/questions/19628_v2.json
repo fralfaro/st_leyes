@@ -1,0 +1,426 @@
+{
+    "🔒 Título Preliminar: Disposiciones generales": [
+        {
+            "pregunta": "¿Qué ley regula el tratamiento y protección de los datos personales en Chile?",
+            "opciones": [
+                "La Constitución Política",
+                "La ley de protección de datos personales",
+                "El Código Civil"
+            ],
+            "respuesta_correcta": "La ley de protección de datos personales"
+        },
+        {
+            "pregunta": "¿Qué principios deben respetar las personas al tratar datos personales?",
+            "opciones": [
+                "Principio de lealtad y seguridad",
+                "Principio de seguridad del estado",
+                "Intereses económicos"
+            ],
+            "respuesta_correcta": "Principio de lealtad y seguridad"
+        },
+        {
+            "pregunta": "¿Qué no aplica al tratamiento de datos personales?",
+            "opciones": [
+                "Datos relacionados con libertades de opinión e información",
+                "Datos en bases públicas",
+                "Datos de carácter privado"
+            ],
+            "respuesta_correcta": "Datos relacionados con libertades de opinión e información"
+        },
+        {
+            "pregunta": "¿Cuándo se aplica el tratamiento de datos personales a titulares fuera de Chile?",
+            "opciones": [
+                "Cuando se monitoriza su comportamiento dentro del territorio nacional",
+                "Cuando se trata de datos personales de ciudadanos chilenos únicamente",
+                "Cuando se ofrece un producto solo dentro de Chile"
+            ],
+            "respuesta_correcta": "Cuando se monitoriza su comportamiento dentro del territorio nacional"
+        },
+        {
+            "pregunta": "¿Qué tipo de datos personales no están protegidos por esta ley?",
+            "opciones": [
+                "Datos para emitir opinión",
+                "Datos confidenciales",
+                "Datos personales financieros"
+            ],
+            "respuesta_correcta": "Datos para emitir opinión"
+        }
+    ],
+    "🛡️ Título I: De los derechos del titular de datos personales": [
+        {
+            "pregunta": "¿Cuál es el derecho principal que tiene el titular sobre sus datos personales?",
+            "opciones": [
+                "Derecho a la oposición",
+                "Derecho de acceso",
+                "Derecho a la supresión"
+            ],
+            "respuesta_correcta": "Derecho de acceso"
+        },
+        {
+            "pregunta": "¿Qué derecho puede ejercer el titular de datos en caso de fallecimiento?",
+            "opciones": [
+                "Sus herederos pueden ejercer el derecho de acceso a los datos",
+                "Sus herederos pueden solicitar la rectificación de los datos",
+                "Sus herederos pueden solicitar la eliminación de los datos, salvo prohibición expresa"
+            ],
+            "respuesta_correcta": "Sus herederos pueden solicitar la eliminación de los datos, salvo prohibición expresa"
+        },
+        {
+            "pregunta": "¿En qué casos se puede ejercer el derecho de rectificación de datos personales?",
+            "opciones": [
+                "Cuando los datos sean incompletos",
+                "Cuando los datos sean utilizados en fines comerciales",
+                "Cuando el titular lo decida sin causa justificada"
+            ],
+            "respuesta_correcta": "Cuando los datos sean incompletos"
+        },
+        {
+            "pregunta": "¿Qué sucede si el responsable del tratamiento de datos niega el acceso a los datos solicitados por el titular?",
+            "opciones": [
+                "El titular puede acudir a la Agencia de Protección de Datos",
+                "El titular debe acudir a un juez",
+                "El titular pierde el derecho a acceso"
+            ],
+            "respuesta_correcta": "El titular puede acudir a la Agencia de Protección de Datos"
+        },
+        {
+            "pregunta": "¿Qué derecho puede ejercer el titular si ya no desea que sus datos personales sean tratados?",
+            "opciones": [
+                "Derecho de oposición",
+                "Derecho de rectificación",
+                "Derecho de bloqueo"
+            ],
+            "respuesta_correcta": "Derecho de oposición"
+        }
+    ],
+    "⚙️ Título II: Del tratamiento de los datos personales y de las categorías especiales de datos": [
+        {
+            "pregunta": "¿Cuál es el requisito principal para que el tratamiento de datos personales sea lícito?",
+            "opciones": [
+                "El consentimiento informado del titular",
+                "Un contrato firmado",
+                "Intereses comerciales legítimos"
+            ],
+            "respuesta_correcta": "El consentimiento informado del titular"
+        },
+        {
+            "pregunta": "¿Qué derecho tiene el titular sobre el tratamiento de sus datos personales sensibles?",
+            "opciones": [
+                "Derecho a oponerse al tratamiento",
+                "Derecho a que los datos se usen para fines comerciales",
+                "Derecho a bloquear permanentemente el tratamiento"
+            ],
+            "respuesta_correcta": "Derecho a oponerse al tratamiento"
+        },
+        {
+            "pregunta": "¿En qué casos puede realizarse el tratamiento de datos personales sensibles sin el consentimiento del titular?",
+            "opciones": [
+                "Cuando es necesario para la protección de la salud pública",
+                "Cuando el titular no está de acuerdo",
+                "Cuando se usan para fines de marketing"
+            ],
+            "respuesta_correcta": "Cuando es necesario para la protección de la salud pública"
+        },
+        {
+            "pregunta": "¿Qué principio garantiza que los datos recolectados deben ser adecuados y pertinentes?",
+            "opciones": [
+                "Principio de proporcionalidad",
+                "Principio de finalidad",
+                "Principio de confidencialidad"
+            ],
+            "respuesta_correcta": "Principio de proporcionalidad"
+        },
+        {
+            "pregunta": "¿Cómo debe otorgarse el consentimiento para el tratamiento de datos sensibles?",
+            "opciones": [
+                "Mediante una declaración verbal o escrita",
+                "A través de un contrato laboral",
+                "Por medios automáticos"
+            ],
+            "respuesta_correcta": "Mediante una declaración verbal o escrita"
+        }
+    ],
+    "💼 Título III: De la utilización de datos personales relativos a obligaciones de carácter económico, financiero, bancario o comercial": [
+        {
+            "pregunta": "¿En qué casos se puede comunicar información relativa a obligaciones económicas y bancarias?",
+            "opciones": [
+                "Cuando la obligación es derivada de mutuos hipotecarios",
+                "Cuando la obligación tiene carácter confidencial",
+                "Cuando la obligación no ha sido negociada"
+            ],
+            "respuesta_correcta": "Cuando la obligación es derivada de mutuos hipotecarios"
+        },
+        {
+            "pregunta": "¿Qué información no puede comunicarse después de cinco años?",
+            "opciones": [
+                "Información sobre obligaciones comerciales pagadas",
+                "Información de mutuos hipotecarios",
+                "Información bancaria actualizada"
+            ],
+            "respuesta_correcta": "Información sobre obligaciones comerciales pagadas"
+        },
+        {
+            "pregunta": "¿Qué sucede cuando una obligación económica es pagada o extinguida?",
+            "opciones": [
+                "Los datos deben ser modificados o bloqueados",
+                "La información es eliminada automáticamente",
+                "El responsable puede seguir comunicando la deuda"
+            ],
+            "respuesta_correcta": "Los datos deben ser modificados o bloqueados"
+        },
+        {
+            "pregunta": "¿Cuál es el plazo máximo para que un acreedor informe del pago de una obligación al responsable del registro?",
+            "opciones": [
+                "Siete días hábiles",
+                "Tres días hábiles",
+                "Cinco días hábiles"
+            ],
+            "respuesta_correcta": "Siete días hábiles"
+        },
+        {
+            "pregunta": "¿Qué tipo de datos pueden ser tratados sin el consentimiento del titular en el ámbito económico?",
+            "opciones": [
+                "Datos sobre la situación socioeconómica",
+                "Datos relacionados con la vida privada",
+                "Datos sobre preferencias personales"
+            ],
+            "respuesta_correcta": "Datos sobre la situación socioeconómica"
+        }
+    ],
+    "🏛️ Título IV: Del tratamiento de datos personales por los órganos públicos": [
+        {
+            "pregunta": "¿Cuándo es lícito el tratamiento de datos personales por parte de órganos públicos?",
+            "opciones": [
+                "Cuando es necesario para la protección de la salud pública",
+                "Cuando se realiza para el cumplimiento de sus funciones legales",
+                "Cuando se trata de datos de carácter confidencial"
+            ],
+            "respuesta_correcta": "Cuando se realiza para el cumplimiento de sus funciones legales"
+        },
+        {
+            "pregunta": "¿Qué principio asegura que los organismos públicos no dupliquen procedimientos entre sí?",
+            "opciones": [
+                "Principio de probidad",
+                "Principio de coordinación",
+                "Principio de transparencia"
+            ],
+            "respuesta_correcta": "Principio de coordinación"
+        },
+        {
+            "pregunta": "¿Qué sucede con los datos cedidos entre organismos públicos una vez que cumplen su propósito?",
+            "opciones": [
+                "Deben ser eliminados o anonimizados",
+                "Pueden ser utilizados para otros fines",
+                "Se almacenan indefinidamente"
+            ],
+            "respuesta_correcta": "Deben ser eliminados o anonimizados"
+        },
+        {
+            "pregunta": "¿En qué casos los organismos públicos pueden comunicar datos personales a entidades privadas?",
+            "opciones": [
+                "Cuando cuentan con el consentimiento del titular",
+                "Cuando la información es de acceso público",
+                "Cuando es necesaria para fines administrativos"
+            ],
+            "respuesta_correcta": "Cuando cuentan con el consentimiento del titular"
+        },
+        {
+            "pregunta": "¿Qué principio rige la eficiencia en el tratamiento de datos por los organismos públicos?",
+            "opciones": [
+                "Principio de transparencia",
+                "Principio de proporcionalidad",
+                "Principio de eficiencia"
+            ],
+            "respuesta_correcta": "Principio de eficiencia"
+        }
+    ],
+    "🌍 Título V: De la transferencia internacional de datos personales": [
+        {
+            "pregunta": "¿Qué regla general permite la transferencia internacional de datos?",
+            "opciones": [
+                "Cumplimiento de estándares adecuados de protección",
+                "Acuerdo entre partes",
+                "Intereses financieros"
+            ],
+            "respuesta_correcta": "Cumplimiento de estándares adecuados de protección"
+        },
+        {
+            "pregunta": "¿En qué situación es válida la transferencia de datos sin estándares de adecuación?",
+            "opciones": [
+                "Cuando hay consentimiento expreso del titular",
+                "Cuando los datos son sensibles",
+                "Cuando no existen riesgos conocidos"
+            ],
+            "respuesta_correcta": "Cuando hay consentimiento expreso del titular"
+        },
+        {
+            "pregunta": "¿Qué organismos pueden autorizar la transferencia internacional de datos?",
+            "opciones": [
+                "La Agencia de Protección de Datos",
+                "El Ministerio de Relaciones Exteriores",
+                "El Banco Central"
+            ],
+            "respuesta_correcta": "La Agencia de Protección de Datos"
+        },
+        {
+            "pregunta": "¿En qué casos no es necesaria una autorización para la transferencia internacional de datos?",
+            "opciones": [
+                "Transferencias entre entidades del mismo grupo empresarial",
+                "Transferencias a países fuera de la OCDE",
+                "Transferencias de datos públicos"
+            ],
+            "respuesta_correcta": "Transferencias entre entidades del mismo grupo empresarial"
+        },
+        {
+            "pregunta": "¿Qué mecanismo garantiza la seguridad de los datos transferidos internacionalmente?",
+            "opciones": [
+                "Cláusulas contractuales",
+                "Un acuerdo verbal entre empresas",
+                "Una simple notificación"
+            ],
+            "respuesta_correcta": "Cláusulas contractuales"
+        }
+    ],
+    "👮 Título VI: Autoridad de Control en materia de Protección de Datos Personales": [
+        {
+            "pregunta": "¿Qué entidad es responsable de velar por la protección de datos personales en Chile?",
+            "opciones": [
+                "El Congreso Nacional",
+                "La Agencia de Protección de Datos Personales",
+                "El Ministerio de Justicia"
+            ],
+            "respuesta_correcta": "La Agencia de Protección de Datos Personales"
+        },
+        {
+            "pregunta": "¿Cómo se relaciona la Agencia de Protección de Datos Personales con el Presidente de la República?",
+            "opciones": [
+                "A través del Ministerio de Justicia",
+                "A través del Ministerio de Economía, Fomento y Turismo",
+                "Directamente"
+            ],
+            "respuesta_correcta": "A través del Ministerio de Economía, Fomento y Turismo"
+        },
+        {
+            "pregunta": "¿Qué función cumple la Agencia respecto a las normas generales de tratamiento de datos?",
+            "opciones": [
+                "Emitirlas sin consulta previa",
+                "Emitirlas después de una consulta pública",
+                "Emitirlas con base en decisiones del Congreso"
+            ],
+            "respuesta_correcta": "Emitirlas después de una consulta pública"
+        },
+        {
+            "pregunta": "¿Qué organismo puede sancionar las infracciones relacionadas con el tratamiento de datos personales?",
+            "opciones": [
+                "El Ministerio Público",
+                "La Agencia de Protección de Datos Personales",
+                "El Tribunal Constitucional"
+            ],
+            "respuesta_correcta": "La Agencia de Protección de Datos Personales"
+        },
+        {
+            "pregunta": "¿Cuál de las siguientes es una función de la Agencia de Protección de Datos Personales?",
+            "opciones": [
+                "Proteger la salud pública",
+                "Proponer normas al Congreso para mejorar la protección de datos",
+                "Coordinar campañas de marketing"
+            ],
+            "respuesta_correcta": "Proponer normas al Congreso para mejorar la protección de datos"
+        }
+    ],
+    "🚫 Título VII: De las infracciones y sus sanciones, de los procedimientos y de las responsabilidades": [
+        {
+            "pregunta": "¿Qué sucede si una entidad pública persiste en una infracción relacionada con datos personales?",
+            "opciones": [
+                "Se le aplicará una multa adicional",
+                "Se cerrará la entidad de forma permanente",
+                "No se aplicarán sanciones adicionales"
+            ],
+            "respuesta_correcta": "Se le aplicará una multa adicional"
+        },
+        {
+            "pregunta": "¿Qué tipo de infracciones pueden ser sancionadas con multas de hasta 20,000 UTM?",
+            "opciones": [
+                "Infracciones leves",
+                "Infracciones graves",
+                "Infracciones gravísimas"
+            ],
+            "respuesta_correcta": "Infracciones gravísimas"
+        },
+        {
+            "pregunta": "¿Cuál es una circunstancia atenuante al momento de imponer una sanción?",
+            "opciones": [
+                "La reincidencia en infracciones",
+                "La colaboración en la investigación",
+                "La omisión de la información"
+            ],
+            "respuesta_correcta": "La colaboración en la investigación"
+        },
+        {
+            "pregunta": "¿Cuál es la sanción accesoria para infracciones gravísimas reiteradas?",
+            "opciones": [
+                "Suspensión de las operaciones de tratamiento de datos",
+                "Multa del 10% de las ganancias",
+                "Clausura definitiva del negocio"
+            ],
+            "respuesta_correcta": "Suspensión de las operaciones de tratamiento de datos"
+        },
+        {
+            "pregunta": "¿Qué infracción se considera gravísima según la ley?",
+            "opciones": [
+                "Omitir la actualización de datos",
+                "Comunicar información no veraz a sabiendas",
+                "Responder fuera de plazo"
+            ],
+            "respuesta_correcta": "Comunicar información no veraz a sabiendas"
+        }
+    ],
+    "⚖️ Título VIII: Del tratamiento de datos personales por el Congreso Nacional, el Poder Judicial y organismos públicos dotados de autonomía constitucional": [
+        {
+            "pregunta": "¿Cuándo es lícito el tratamiento de datos personales por parte del Congreso Nacional?",
+            "opciones": [
+                "Cuando se realiza en cumplimiento de funciones legales",
+                "Cuando es autorizado por la Agencia de Protección de Datos",
+                "Cuando el titular da su consentimiento"
+            ],
+            "respuesta_correcta": "Cuando se realiza en cumplimiento de funciones legales"
+        },
+        {
+            "pregunta": "¿Qué principio deben garantizar las autoridades del Poder Judicial al tratar datos personales?",
+            "opciones": [
+                "Principio de transparencia",
+                "Principio de coordinación",
+                "Principio de seguridad nacional"
+            ],
+            "respuesta_correcta": "Principio de coordinación"
+        },
+        {
+            "pregunta": "¿Qué organismos están exentos de requerir el consentimiento del titular para tratar datos personales?",
+            "opciones": [
+                "Ministerio Público, Tribunal Constitucional y Banco Central",
+                "Ministerio de Hacienda, Congreso Nacional y Servicio Electoral",
+                "Tribunales especiales y entidades privadas"
+            ],
+            "respuesta_correcta": "Ministerio Público, Tribunal Constitucional y Banco Central"
+        },
+        {
+            "pregunta": "¿A qué instancia puede recurrir un titular si un organismo público le niega injustificadamente el ejercicio de un derecho?",
+            "opciones": [
+                "Corte Suprema",
+                "Corte de Apelaciones",
+                "Ministerio de Economía"
+            ],
+            "respuesta_correcta": "Corte de Apelaciones"
+        },
+        {
+            "pregunta": "¿Quiénes deben dictar políticas para el tratamiento de datos personales en el Congreso Nacional y el Poder Judicial?",
+            "opciones": [
+                "La Agencia de Protección de Datos",
+                "Las autoridades superiores de los órganos internos",
+                "El Presidente de la República"
+            ],
+            "respuesta_correcta": "Las autoridades superiores de los órganos internos"
+        }
+    ]
+
+}

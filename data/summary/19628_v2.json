@@ -1,0 +1,105 @@
+{
+    "🔒 Título Preliminar: Disposiciones generales": {
+        "articulos": [
+            "Artículo 1",
+            "Artículo 2",
+            "Artículo 3"
+        ],
+        "descripcion": "Define el objeto, ámbito de aplicación y las definiciones clave en el tratamiento de los datos personales. Se describen principios como el almacenamiento, bloqueo, eliminación de datos y las bases de datos personales."
+    },
+    "🛡️ Título I: De los derechos del titular de datos personales": {
+        "articulos": [
+            "Artículo 4",
+            "Artículo 5",
+            "Artículo 6",
+            "Artículo 7",
+            "Artículo 8",
+            "Artículo 9",
+            "Artículo 10",
+            "Artículo 11"
+        ],
+        "descripcion": "Establece los derechos del titular de datos personales, como el derecho de acceso, rectificación, supresión, oposición, portabilidad y bloqueo. También regula cómo ejercer estos derechos y los procedimientos ante el responsable de datos."
+    },
+    "⚙️ Título II: Del tratamiento de los datos personales y de las categorías especiales de datos": {
+        "articulos": [
+            "Artículo 12",
+            "Artículo 13",
+            "Artículo 14",
+            "Artículo 15",
+            "Artículo 16"
+        ],
+        "descripcion": "Regula el tratamiento de datos personales, incluyendo el consentimiento, las excepciones para el tratamiento sin consentimiento y las obligaciones del responsable. También aborda las categorías especiales como los datos sensibles y biométricos."
+    },
+    "💼 Título III: De la utilización de datos personales relativos a obligaciones de carácter económico, financiero, bancario o comercial": {
+        "articulos": [
+            "Artículo 17",
+            "Artículo 18",
+            "Artículo 19"
+        ],
+        "descripcion": "Regula el tratamiento de datos personales relacionados con obligaciones financieras, bancarias y comerciales, incluyendo la comunicación de información sobre protestos, morosidades y otras obligaciones de pago."
+    },
+    "🏛️ Título IV: Del tratamiento de datos personales por los órganos públicos": {
+        "articulos": [
+            "Artículo 20",
+            "Artículo 21",
+            "Artículo 22",
+            "Artículo 23",
+            "Artículo 24",
+            "Artículo 25",
+            "Artículo 26"
+        ],
+        "descripcion": "Establece las normas para el tratamiento de datos personales por parte de los órganos públicos, incluyendo las reglas para la cesión de datos entre organismos y la protección de datos sensibles."
+    },
+    "🌍 Título V: De la transferencia internacional de datos personales": {
+        "articulos": [
+            "Artículo 27",
+            "Artículo 28",
+            "Artículo 29"
+        ],
+        "descripcion": "Este título regula las condiciones bajo las cuales se permite la transferencia internacional de datos personales. Establece que las transferencias son lícitas cuando se cumplen ciertas garantías de protección de los datos personales, ya sea a través de cláusulas contractuales, normas corporativas vinculantes o en otros instrumentos jurídicos. La Agencia de Protección de Datos Personales tiene la facultad de autorizar estas transferencias y fiscalizarlas."
+    },
+    "👮 Título VI: Autoridad de Control en materia de Protección de Datos Personales": {
+        "articulos": [
+            "Artículo 30",
+            "Artículo 31",
+            "Artículo 32"
+        ],
+        "descripcion": "Este título crea la Agencia de Protección de Datos Personales, una corporación autónoma responsable de supervisar el cumplimiento de la ley de protección de datos. Establece sus funciones, como dictar normas generales, fiscalizar el tratamiento de datos, y sancionar infracciones. Además, detalla las responsabilidades del personal de la Agencia y el patrimonio de esta."
+    },
+    "🚫 Título VII: De las infracciones y sus sanciones, de los procedimientos y de las responsabilidades": {
+        "articulos": [
+            "Artículo 33",
+            "Artículo 34",
+            "Artículo 35",
+            "Artículo 36",
+            "Artículo 37",
+            "Artículo 38",
+            "Artículo 39",
+            "Artículo 40",
+            "Artículo 41",
+            "Artículo 42",
+            "Artículo 43",
+            "Artículo 44",
+            "Artículo 45",
+            "Artículo 46",
+            "Artículo 47",
+            "Artículo 48",
+            "Artículo 49",
+            "Artículo 50",
+            "Artículo 51",
+            "Artículo 52"
+
+
+        ],
+        "descripcion": "Este título establece el régimen de sanciones por infracciones a la ley de protección de datos. Las infracciones se clasifican en leves, graves y gravísimas, y se sancionan con multas dependiendo de su gravedad. También regula el procedimiento sancionatorio y la responsabilidad tanto para personas naturales como jurídicas."
+    },
+    "⚖️ Título VIII: Del tratamiento de datos personales por el Congreso Nacional, el Poder Judicial y organismos públicos dotados de autonomía constitucional": {
+        "articulos": [
+            "Artículo 54",
+            "Artículo 55",
+            "Artículo 56"
+        ],
+        "descripcion": "Regula el tratamiento de datos personales por instituciones como el Congreso Nacional, el Poder Judicial y otros organismos públicos con autonomía constitucional. Define los principios y obligaciones que deben seguir estas instituciones al tratar datos personales, y establece la responsabilidad de las autoridades superiores para garantizar el cumplimiento de las disposiciones de la ley."
+    }
+
+}
